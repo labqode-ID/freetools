@@ -1,4 +1,0 @@
-   User-agent: *
-   Allow: /
-   
-   Sitemap: https://labqode-id.github.io/freetools/sitemap.xml
